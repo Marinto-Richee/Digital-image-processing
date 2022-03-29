@@ -1,26 +1,26 @@
 # Digital-image-processing
 
-##AIM:
+## AIM:
 To write a python program using OpenCV to do the following image manipulations. 
 i) Read and display the image
 ii)Write the image
 iii)Shape of the Image
 iv)Access rows and columns
 v)Cut and paste portion of image
-##SOFTWARE REQUIRED:
+## SOFTWARE REQUIRED:
 Google Colab or Jupyter Lab
-##ALGORITHM:
-#Step 1: 
+## ALGORITHM:
+# Step 1: 
 Choose an image and save it as image.jpg
-#Step 2:
+# Step 2:
 Use imread(image, flags) to read the file.
-#Step 3:
+# Step 3:
 Use imshow(window_name, image) to display the image.
-#Step 4:
+# Step 4:
 Use imwrite(filename, image) to write the image.
-#Step 5:
+# Step 5:
 End the program and close the output image windows.
-##PROGRAM:
+## PROGRAM:
 ```
 # Developed By:Marinto Richee J
 # Register Number: 212220230031
@@ -60,17 +60,17 @@ image[40:80,120:300]=cut
 cv2_imshow(image)
 
 ```
-##OUTPUT:
-#i) Read and display the image
+## OUTPUT:
+# i) Read and display the image
 ![](images/read.jpg)
-#ii)Write the image
+# ii)Write the image
 ![](images/write.jpg)
-#iii)Shape of the Image
+# iii)Shape of the Image
 ![](images/shape.jpg)
-#iv)Access rows and columns
+# iv)Access rows and columns
 ![](images/access.jpg)
-#v)Cut and paste portion of image
+# v)Cut and paste portion of image
 ![](images/cut.jpg)
-##RESULT:
+## RESULT:
 Thus the images are read, displayed, and written successfully using the python program.
 
