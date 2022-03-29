@@ -61,15 +61,15 @@ cv2_imshow(image)
 
 ```
 ## OUTPUT:
-# i) Read and display the image
+### i) Read and display the image
 ![](images/read.jpg)
-# ii)Write the image
+### ii)Write the image
 ![](images/write.jpg)
-# iii)Shape of the Image
+### iii)Shape of the Image
 ![](images/shape.jpg)
-# iv)Access rows and columns
+### iv)Access rows and columns
 ![](images/access.jpg)
-# v)Cut and paste portion of image
+### v)Cut and paste portion of image
 ![](images/cut.jpg)
 ## RESULT:
 Thus the images are read, displayed, and written successfully using the python program.
