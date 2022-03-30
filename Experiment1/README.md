@@ -1,4 +1,4 @@
-# Digital-image-processing
+# READ AND WRITE IMAGES USING OPENCV
 
 ## AIM:
 To write a python program using OpenCV to do the following image manipulations. 
