@@ -23,8 +23,8 @@ Anaconda - Python 3.7
 
 ## Program:
 ```python
-Developed By:
-Register Number:
+Developed By:Marinto Richee J
+Register Number:212220230031  
 i)Image Translation
 
 
