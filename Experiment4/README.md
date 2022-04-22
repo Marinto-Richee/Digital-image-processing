@@ -28,8 +28,8 @@ Display the grayscale image.
 
 ## Program:
 ```python
-# Developed By:
-# Register Number:
+# Developed By:Marinto Richee J   
+# Register Number:212220230031
 import cv2
 import matplotlib.pyplot as plt
 Color_image=cv2.imread('img.jfif')
