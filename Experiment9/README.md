@@ -34,15 +34,15 @@ image=cv2.cvtColor(image,cv2.COLOR_BGR2RGB)
 image_gray=cv2.imread("image face.webp",0)
 
 # Use Global thresholding to segment the image
-ret,thresh_img1-cv2.threshold(image_gray,86,255,cv2.THRESH_BINARY)
+ret,thresh_img1=cv2.threshold(image_gray,86,255,cv2.THRESH_BINARY)
 ret,thresh_img2=cv2.threshold(image_gray,86,255,cv2.THRESH_BINARY_INV)
 ret,thresh_img3=cv2.threshold(image_gray,86,255,cv2.THRESH_TOZERO)
 ret,thresh_img4=cv2.threshold(image_gray,86,255,cv2.THRESH_TOZERO_INV)
 ret,thresh_img5=cv2.threshold(image_gray,100,255,cv2.THRESH_TRUNC)
 
 # Use Adaptive thresholding to segment the image
-thresh_img7-cv2.adaptive Threshold(image_gray,255,cv2.ADAPTIVE_THRESH_MEAN_C,cv2.THRESH_BINARY,11,2)
-thresh_img8-cv2.adaptive Threshold(image_gray,255,cv2.ADAPTIVE_THRESH_GAUSSIAN_C,cv2.THRESH_BINARY,11,2)
+thresh_img7=cv2.adaptive Threshold(image_gray,255,cv2.ADAPTIVE_THRESH_MEAN_C,cv2.THRESH_BINARY,11,2)
+thresh_img8=cv2.adaptive Threshold(image_gray,255,cv2.ADAPTIVE_THRESH_GAUSSIAN_C,cv2.THRESH_BINARY,11,2)
 
 # Use Otsu's method to segment the image 
 ret,thresh_img6=cv2.threshold(image_gray,0,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)
