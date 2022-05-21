@@ -111,6 +111,14 @@ plt.imshow(Laplacian)
 plt.show()
 
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Output:
 ### SOBEL EDGE DETECTOR
 ![sobelx](https://user-images.githubusercontent.com/65499285/168112550-6d99db26-e4b2-4a02-ac41-231c204442dd.png)
