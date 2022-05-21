@@ -118,6 +118,10 @@ plt.show()
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+
 
 ## Output:
 ### SOBEL EDGE DETECTOR
