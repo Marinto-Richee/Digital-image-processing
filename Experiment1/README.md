@@ -20,6 +20,8 @@ Use imshow(window_name, image) to display the image.
 Use imwrite(filename, image) to write the image.
 ### Step 5:
 End the program and close the output image windows.
+
+<br><br><br><br><br><br>
 ## Program:
 #### Developed By: Marinto Richee
 #### Register Number: 212220230031
@@ -60,9 +62,13 @@ image[40:80,120:300]=cut
 cv2_imshow(image)
 
 ```
+
+<br><br><br>
 ## Output:
 ### i) Read and display the image
 ![](images/read.jpg)
+
+<br><br><br><br><br><br><br>
 ### ii)Write the image
 ![](images/write.jpg)
 ### iii)Shape of the Image
