@@ -113,6 +113,14 @@ cv2.destroyAllWindows()
 
 <img width="338" alt="img3" src="https://user-images.githubusercontent.com/65499285/162554722-ada6a3b1-51c7-4a9a-91be-4591272ff027.png">
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ### ii) HSV to RGB and BGR
 
 <img width="509" alt="img4" src="https://user-images.githubusercontent.com/65499285/162554738-45ae93e3-0ecb-4a25-855d-e8746e0e6a98.png">
