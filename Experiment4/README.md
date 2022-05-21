@@ -105,13 +105,13 @@ plt.imshow(equ)
 <br>
 <br><br><br><br><br><br>
 ### Histogram of Grayscale Image and any channel of Color Image
-<br>![2](https://user-images.githubusercontent.com/65499285/164492333-af64de22-4c19-46b5-9c3c-5beed6313863.png)
+![2](https://user-images.githubusercontent.com/65499285/164492333-af64de22-4c19-46b5-9c3c-5beed6313863.png)
 <br>
 ![3](https://user-images.githubusercontent.com/65499285/164492436-901f7194-9a37-4fe5-b719-4152025e57e5.png)
 <br>
 ![4](https://user-images.githubusercontent.com/65499285/164492793-3a7afec8-605b-41c0-8d22-6fc55d7ad553.png)
 <br>
-<br><br><br><br>
+<br><br><br><br><br><br><br>
 ### Histogram Equalization of Grayscale Image
 <br>![6](https://user-images.githubusercontent.com/65499285/164492215-8e4b874f-ecb1-433c-8188-9389544892ff.png)
 <br>
