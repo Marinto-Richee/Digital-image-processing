@@ -18,11 +18,6 @@ cv2.cvtColor(image,cv2.COLOR_HSV2BGR)<br/>
 Convert RGB and BGR to YCrCb<br/>
 using:<br/>cv2.cvtColor(image,cv2.COLOR_RGB2YCrCb)<br/>cv2.cvtColor(image,cv2.COLOR_BGR2YCrCb)<br/>
 
-<br>
-<br>
-<br>
-<br>
-
 
 ### Step 4:
 Split and Merge RGB Image
@@ -98,10 +93,6 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
-<br>
-<br>
-<br>
-<br>
 
 ## Output:
 
@@ -113,16 +104,6 @@ cv2.destroyAllWindows()
 
 <img width="338" alt="img3" src="https://user-images.githubusercontent.com/65499285/162554722-ada6a3b1-51c7-4a9a-91be-4591272ff027.png">
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ### ii) HSV to RGB and BGR
 
