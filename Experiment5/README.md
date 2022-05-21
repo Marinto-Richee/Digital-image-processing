@@ -109,7 +109,6 @@ plt.axis("off")
 plt.imshow(cropped_image)
 
 ```
-<br><br><br><br><br><br>
 ## Output:
 ### i)Image Translation
 ![image](https://user-images.githubusercontent.com/65499285/164649694-2fcb2003-c2fb-491b-a467-99cb90807dee.png)
@@ -119,36 +118,24 @@ plt.imshow(cropped_image)
 ### ii) Image Scaling
 ![image](https://user-images.githubusercontent.com/65499285/164649789-b4567984-0684-4e79-a55d-7fc2d03873d3.png)
 <br>
-<br>
 
 ### iii)Image Shearing
 ![image](https://user-images.githubusercontent.com/65499285/164649845-8ede293b-0a7f-4841-b3bd-c372c53f05e1.png)
-
 <br>
-<br>
-<br><br>
 
 ### iv)Image Reflection
 ![image](https://user-images.githubusercontent.com/65499285/164649888-d86d01d7-84a8-440e-b200-d0b51b7c52da.png)
 <br>
 ![image](https://user-images.githubusercontent.com/65499285/164649921-80058a23-9675-4219-b628-9a22a11b62fc.png)
-
 <br>
 
 ### v)Image Rotation
 ![image](https://user-images.githubusercontent.com/65499285/164649987-c996d927-a3f3-4132-ad11-8f08a8a4dfb3.png)
 <br>
-<br>
-
-<br><br><br><br><br><br>
 
 ### vi)Image Cropping
 ![image](https://user-images.githubusercontent.com/65499285/164650039-1d66fa6a-05a1-4fe9-b7a6-e0a6a50cba99.png)
 <br>
-<br>
-
-
-
 
 ## Result: 
 
