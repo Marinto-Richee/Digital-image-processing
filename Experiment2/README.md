@@ -107,11 +107,11 @@ cv2.destroyAllWindows()
 ### ii) Display the video
 ![](images/img3.png)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 ### iii) Display the video by resizing the window
 ![](images/img4.png)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 ### iv) Rotate and display the video
 ![](images/img5.png)
 
