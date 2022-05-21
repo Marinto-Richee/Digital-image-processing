@@ -103,7 +103,7 @@ plt.imshow(equ)
 
 <br>![1](https://user-images.githubusercontent.com/65499285/164491965-07b8931a-5a5b-4eac-8f32-8a2b9094ef09.png)
 <br>
-
+<br><br><br><br><br><br>
 ### Histogram of Grayscale Image and any channel of Color Image
 <br>![2](https://user-images.githubusercontent.com/65499285/164492333-af64de22-4c19-46b5-9c3c-5beed6313863.png)
 <br>
