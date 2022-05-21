@@ -1,15 +1,15 @@
-# READ AND WRITE IMAGES USING OPENCV
+# Read and Write images using OpenCV
 
-## AIM:
+## Aim:
 To write a python program using OpenCV to do the following image manipulations. 
 i) Read and display the image
 ii)Write the image
 iii)Shape of the Image
 iv)Access rows and columns
 v)Cut and paste portion of image
-## SOFTWARE REQUIRED:
+## Software Required:
 Google Colab or Jupyter Lab
-## ALGORITHM:
+## Algorithm:
 ### Step 1: 
 Choose an image and save it as image.jpg
 ### Step 2:
