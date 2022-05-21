@@ -109,7 +109,7 @@ plt.axis("off")
 plt.imshow(cropped_image)
 
 ```
-<br><br><br><br>
+<br><br><br><br><br><br>
 ## Output:
 ### i)Image Translation
 ![image](https://user-images.githubusercontent.com/65499285/164649694-2fcb2003-c2fb-491b-a467-99cb90807dee.png)
