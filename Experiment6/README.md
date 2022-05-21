@@ -46,9 +46,6 @@ Display all the images with their respective filters.
 #### Developed By   :Marinto Richee J
 #### Register Number:212220230031
 ### 1. Smoothing Filters
-<br>
-<br>
-<br>
 
 i) Using Averaging Filter
 ```Python
@@ -65,6 +62,10 @@ plt.title('Average Filter image')
 plt.imshow(average_filter_image)
 plt.show()
 ```
+<br>
+<br>
+<br>
+
 ii) Using Weighted Averaging Filter
 ```Python
 wt_avg_kernel=np.array([[1,2,1],[2,4,2],[1,2,1]])/16
