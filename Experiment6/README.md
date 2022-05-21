@@ -43,8 +43,8 @@ Lap_sharp=cv2.Laplacian(image,cv2.CV_64F)
 Display all the images with their respective filters.
 
 ## Program:
-### Developed By   :Marinto Richee J
-### Register Number:212220230031
+#### Developed By   :Marinto Richee J
+#### Register Number:212220230031
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
