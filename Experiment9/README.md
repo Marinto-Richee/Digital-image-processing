@@ -21,8 +21,6 @@ Use Otsu's method to segment the image
 ### Step 6:
 Display the results
 
-<br>
-
 ## Program:
 #### Developed By   :Marinto Richee J
 #### Register Number:212220230031
