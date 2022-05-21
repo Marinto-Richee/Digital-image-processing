@@ -46,7 +46,9 @@ Display all the images with their respective filters.
 #### Developed By   :Marinto Richee J
 #### Register Number:212220230031
 ### 1. Smoothing Filters
-
+<br>
+<br>
+<br>
 i) Using Averaging Filter
 ```Python
 avg_kernel=np.ones((13,13),np.float32)/169
