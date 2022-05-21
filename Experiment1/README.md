@@ -68,7 +68,7 @@ cv2_imshow(image)
 ### i) Read and display the image
 ![](images/read.jpg)
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br>
 ### ii)Write the image
 ![](images/write.jpg)
 ### iii)Shape of the Image
