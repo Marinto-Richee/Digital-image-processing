@@ -21,7 +21,8 @@ Use Otsu's method to segment the image
 ### Step6:
 Display the results
 ## Program
-
+#### Developed By   :Marinto Richee J
+#### Register Number:212220230031
 ```python
 # Load the necessary packages
 import cv2
