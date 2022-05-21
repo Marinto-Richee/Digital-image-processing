@@ -27,8 +27,6 @@ Display the result
 <br>
 <br>
 <br>
-<br>
-<br>
 
 
 ## Program:
