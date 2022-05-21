@@ -26,9 +26,9 @@ To rotate and display the video use cv2.cv2.rotate( src, rotateCode[, dst] )
 End the program and close the output image windows.
 
 ## Program:
-```
-### Developed By: Marinto Richee J
-### Register No: 212220230031
+#### Developed By: Marinto Richee
+#### Register Number: 212220230031
+```Python 
 
 ## i) Write the frame as JPG file
 
