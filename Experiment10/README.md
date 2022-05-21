@@ -1,7 +1,7 @@
-# Implementation-of-Erosion-and-Dilation
-## Aim
+# Implementation of Erosion and Dilation
+## Aim:
 To implement Erosion and Dilation using Python and OpenCV.
-## Software Required
+## Software Required:
 1. Anaconda - Python 3.7
 2. OpenCV
 ## Algorithm:
@@ -17,7 +17,8 @@ Erode and Dilate the image
 Display all the results
  
 ## Program:
-
+#### Developed By: Marinto Richee
+#### Register Number: 212220230031
 ``` Python
 # Import the necessary packages
 import cv2
@@ -62,5 +63,5 @@ plt.show()
 ### Display the Eroded Image and Dilated Image
 ![image](https://user-images.githubusercontent.com/65499285/169638756-25cc2233-39d4-4dc0-a317-1ad41e682e01.png)
 
-## Result
+## Result:
 Thus the generated text image is eroded and dilated using python and OpenCV.
