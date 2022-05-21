@@ -111,7 +111,7 @@ plt.imshow(equ)
 <br>
 ![4](https://user-images.githubusercontent.com/65499285/164492793-3a7afec8-605b-41c0-8d22-6fc55d7ad553.png)
 <br>
-<br><br><br><br><br><br><br>
+<br><br><br><br>
 ### Histogram Equalization of Grayscale Image
 <br>![6](https://user-images.githubusercontent.com/65499285/164492215-8e4b874f-ecb1-433c-8188-9389544892ff.png)
 <br>
