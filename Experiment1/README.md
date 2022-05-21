@@ -20,10 +20,10 @@ Use imshow(window_name, image) to display the image.
 Use imwrite(filename, image) to write the image.
 ### Step 5:
 End the program and close the output image windows.
-## PROGRAM:
-```
-# Developed By:Marinto Richee J
-# Register Number: 212220230031
+## Program:
+#### Developed By: Marinto Richee
+#### Register Number: 212220230031
+```Python 
 # To Read,display the image
 
 import cv2 as computervision
@@ -60,7 +60,7 @@ image[40:80,120:300]=cut
 cv2_imshow(image)
 
 ```
-## OUTPUT:
+## Output:
 ### i) Read and display the image
 ![](images/read.jpg)
 ### ii)Write the image
@@ -71,5 +71,5 @@ cv2_imshow(image)
 ![](images/access.jpg)
 ### v)Cut and paste portion of image
 ![](images/cut.jpg)
-## RESULT:
+## Result:
 Thus the images are read, displayed, and written successfully using the python program.
