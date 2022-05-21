@@ -96,11 +96,14 @@ Videorotate.release()
 cv2.destroyAllWindows()
 
 ```
+<br><br><br><br><br><br><br><br><br><br>
 ## Output:
 
 ### i) Write the frame as JPG image
 ![](images/img1.png)
 ![](images/img2.png)
+<br><br><br><br><br><br><br><br><br><br>
+
 ### ii) Display the video
 ![](images/img3.png)
 ### iii) Display the video by resizing the window
