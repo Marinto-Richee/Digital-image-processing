@@ -62,9 +62,6 @@ plt.title('Average Filter image')
 plt.imshow(average_filter_image)
 plt.show()
 ```
-<br>
-<br>
-<br>
 
 ii) Using Weighted Averaging Filter
 ```Python
@@ -141,18 +138,6 @@ plt.title('Laplacian Filter image')
 plt.imshow(Lap_blur)
 plt.show()
 ```
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 ## Output:
 ### 1. Smoothing Filters
