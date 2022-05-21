@@ -126,7 +126,7 @@ plt.imshow(cropped_image)
 
 <br>
 <br>
-<br><br><br><br><br><br><br>
+<br><br><br><br>
 
 ### iv)Image Reflection
 ![image](https://user-images.githubusercontent.com/65499285/164649888-d86d01d7-84a8-440e-b200-d0b51b7c52da.png)
