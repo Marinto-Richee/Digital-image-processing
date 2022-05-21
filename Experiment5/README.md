@@ -70,13 +70,12 @@ Translated_image=cv2.warpPerspective(org_img,Translation_matrix,(col,row))
 plt.axis("off")
 plt.imshow(Translated_image)
 
+
 ii) Image Scaling
 Scaling_Matrix=np.float32([[1.2,0,0],[0,1.2,0],[0,0,1]])
 Scaled_image=cv2.warpPerspective(org_img,Scaling_Matrix,(col,row))
 plt.axis("off")
 plt.imshow(Scaled_image)
-
-
 
 iii)Image Shearing
 Shearing_matrix=np.float32([[1,0.2,0],[0.2,1,0],[0,0,1]])
@@ -110,7 +109,7 @@ plt.axis("off")
 plt.imshow(cropped_image)
 
 ```
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 ## Output:
 ### i)Image Translation
 ![image](https://user-images.githubusercontent.com/65499285/164649694-2fcb2003-c2fb-491b-a467-99cb90807dee.png)
