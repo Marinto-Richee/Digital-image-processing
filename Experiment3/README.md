@@ -96,7 +96,9 @@ cv2.destroyAllWindows()
 ### i) BGR and RGB to HSV and GRAY
 
 <img width="168" alt="img1" src="https://user-images.githubusercontent.com/65499285/162554460-943f9a37-9b39-44ed-97bb-a28d28b72ea8.png">
+
 <img width="340" alt="img2" src="https://user-images.githubusercontent.com/65499285/162554524-35dcff11-9be1-4f9f-b728-a274b1591e51.png">
+
 <img width="338" alt="img3" src="https://user-images.githubusercontent.com/65499285/162554722-ada6a3b1-51c7-4a9a-91be-4591272ff027.png">
 
 ### ii) HSV to RGB and BGR
@@ -110,11 +112,13 @@ cv2.destroyAllWindows()
 ### iv) Split and merge RGB Image
 
 <img width="512" alt="img6" src="https://user-images.githubusercontent.com/65499285/162554753-53073027-21c4-4043-8312-0a31fa3b4267.png">
+
 <img width="341" alt="img7" src="https://user-images.githubusercontent.com/65499285/162554755-570ad917-2724-4965-a38f-9d33c6b2a7d6.png">
 
 ### v) Split and merge HSV Image
 
 <img width="506" alt="img8" src="https://user-images.githubusercontent.com/65499285/162554765-35e1940a-7aeb-432c-8eaa-5154b66b8471.png">
+
 <img width="341" alt="img9" src="https://user-images.githubusercontent.com/65499285/162554769-1032ac7c-e8a7-40ab-8340-dadf12e9129d.png">
 
 ## Result:
