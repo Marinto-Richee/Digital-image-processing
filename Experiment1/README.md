@@ -74,7 +74,7 @@ cv2_imshow(image)
 ### iii)Shape of the Image
 ![](images/shape.jpg)
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ### iv)Access rows and columns
 ![](images/access.jpg)
 ### v)Cut and paste portion of image
