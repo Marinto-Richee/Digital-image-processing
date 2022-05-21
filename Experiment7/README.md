@@ -111,15 +111,6 @@ plt.imshow(Laplacian)
 plt.show()
 
 ```
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## Output:
 ### SOBEL EDGE DETECTOR
 ![sobelx](https://user-images.githubusercontent.com/65499285/168112550-6d99db26-e4b2-4a02-ac41-231c204442dd.png)
@@ -128,9 +119,6 @@ plt.show()
 
 ### LAPLACIAN EDGE DETECTOR
 ![lap](https://user-images.githubusercontent.com/65499285/168112779-fb06102b-4427-4efd-9cd0-5ae269c2db89.png)
-
-<br>
-<br>
 
 ### CANNY EDGE DETECTOR
 ![image](https://user-images.githubusercontent.com/65499285/168112104-c5b6759e-5c34-453b-99e0-e19df87d184e.png)
