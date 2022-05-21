@@ -10,15 +10,15 @@ v)Cut and paste portion of image
 ## SOFTWARE REQUIRED:
 Google Colab or Jupyter Lab
 ## ALGORITHM:
-# Step 1: 
+### Step 1: 
 Choose an image and save it as image.jpg
-# Step 2:
+### Step 2:
 Use imread(image, flags) to read the file.
-# Step 3:
+### Step 3:
 Use imshow(window_name, image) to display the image.
-# Step 4:
+### Step 4:
 Use imwrite(filename, image) to write the image.
-# Step 5:
+### Step 5:
 End the program and close the output image windows.
 ## PROGRAM:
 ```
