@@ -22,7 +22,6 @@ To display the video use<br/>cv2.imshow(window_name, frame)<br/>&ensp;&ensp;&ens
 To display the video by resizing the window size use cv2.resize(src, dsize, fx, fy, interpolation)
 ### Step 4:
 To rotate and display the video use cv2.cv2.rotate( src, rotateCode[, dst] )
-<br><br>
 ### Step 5:
 End the program and close the output image windows.
 
@@ -97,22 +96,18 @@ Videorotate.release()
 cv2.destroyAllWindows()
 
 ```
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## Output:
 
 ### i) Write the frame as JPG image
 ![](images/img1.png)
 ![](images/img2.png)
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### ii) Display the video
 ![](images/img3.png)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ### iii) Display the video by resizing the window
 ![](images/img4.png)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ### iv) Rotate and display the video
 ![](images/img5.png)
 
