@@ -25,7 +25,6 @@ Equalize the grayscale image.
 ### Step 5:
 
 Display the grayscale image.
-<br><br><br><br><br>
 ## Program:
 #### Developed By   :Marinto Richee J
 #### Register Number:212220230031
@@ -101,13 +100,11 @@ plt.imshow(equ)
 ## Output:
 ### Input Grayscale Image and Color Image
 <br>![1](https://user-images.githubusercontent.com/65499285/164491965-07b8931a-5a5b-4eac-8f32-8a2b9094ef09.png)
-<br><br><br><br><br>
 ### Histogram of Grayscale Image and any channel of Color Image
 ![2](https://user-images.githubusercontent.com/65499285/164492333-af64de22-4c19-46b5-9c3c-5beed6313863.png)
 ![3](https://user-images.githubusercontent.com/65499285/164492436-901f7194-9a37-4fe5-b719-4152025e57e5.png)
 ![4](https://user-images.githubusercontent.com/65499285/164492793-3a7afec8-605b-41c0-8d22-6fc55d7ad553.png)
 <br>
-<br><br><br><br>
 ### Histogram Equalization of Grayscale Image
 <br>![6](https://user-images.githubusercontent.com/65499285/164492215-8e4b874f-ecb1-433c-8188-9389544892ff.png)
 <br>
