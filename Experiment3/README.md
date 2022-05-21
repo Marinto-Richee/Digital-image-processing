@@ -17,7 +17,6 @@ cv2.cvtColor(image,cv2.COLOR_HSV2BGR)<br/>
 ### Step 3:
 Convert RGB and BGR to YCrCb<br/>
 using:<br/>cv2.cvtColor(image,cv2.COLOR_RGB2YCrCb)<br/>cv2.cvtColor(image,cv2.COLOR_BGR2YCrCb)<br/>
-<br><br><br><br>
 ### Step 4:
 Split and Merge RGB Image
 <br>using:<br/>blue = image[:,:,0]<br/>green = image[:,:,1]<br/>red = image[:,:,2]<br/>cv2.merge((blue,green,red))<br/>
@@ -92,7 +91,6 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
-<br><br><br><br>
 ## Output:
 
 ### i) BGR and RGB to HSV and GRAY
