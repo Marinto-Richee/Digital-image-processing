@@ -63,8 +63,7 @@ plt.imshow(image_erode)
 plt.show()
 ```
 <br>
-<br>
-<br>
+
 
 ## Output:
 
