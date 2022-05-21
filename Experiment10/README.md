@@ -16,11 +16,6 @@ Erode and Dilate the image
 ### Step 5:
 Display all the results
 
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## Program:
 #### Developed By: Marinto Richee
@@ -62,14 +57,14 @@ plt.title("Erode")
 plt.imshow(image_erode)
 plt.show()
 ```
-<br>
-
-
 ## Output:
 
 ### Display the input Image
+
 ![image](https://user-images.githubusercontent.com/65499285/169638750-e5d7840d-d6b8-4668-a08c-c430c65097ed.png)
+
 ### Display the Eroded Image and Dilated Image
+
 ![image](https://user-images.githubusercontent.com/65499285/169638756-25cc2233-39d4-4dc0-a317-1ad41e682e01.png)
 
 ## Result:
