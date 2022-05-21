@@ -140,7 +140,7 @@ plt.imshow(cropped_image)
 <br>
 <br>
 
-
+<br><br><br><br><br><br>
 
 ### vi)Image Cropping
 ![image](https://user-images.githubusercontent.com/65499285/164650039-1d66fa6a-05a1-4fe9-b7a6-e0a6a50cba99.png)
