@@ -49,6 +49,7 @@ Display all the images with their respective filters.
 <br>
 <br>
 <br>
+
 i) Using Averaging Filter
 ```Python
 avg_kernel=np.ones((13,13),np.float32)/169
