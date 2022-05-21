@@ -52,9 +52,9 @@ cropped_image=org_img[10:350,320:560]
 Display all the Transformed images.
 
 ## Program:
+#### Developed By   :Marinto Richee J
+#### Register Number:212220230031
 ```python
-Developed By:Marinto Richee J
-Register Number:212220230031  
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
