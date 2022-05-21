@@ -62,6 +62,10 @@ plt.title("Erode")
 plt.imshow(image_erode)
 plt.show()
 ```
+<br>
+<br>
+<br>
+
 ## Output:
 
 ### Display the input Image
