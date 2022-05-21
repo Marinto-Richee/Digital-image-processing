@@ -121,9 +121,9 @@ plt.imshow(cropped_image)
 <br>
 <br>
 
-
 ### iii)Image Shearing
 ![image](https://user-images.githubusercontent.com/65499285/164649845-8ede293b-0a7f-4841-b3bd-c372c53f05e1.png)
+
 <br>
 <br>
 <br><br><br><br><br><br><br>
