@@ -138,7 +138,7 @@ plt.imshow(Lap_blur)
 plt.show()
 ```
 
-## OUTPUT:
+## Output:
 ### 1. Smoothing Filters
 </br>
 
