@@ -131,9 +131,6 @@ plt.show()
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ### CANNY EDGE DETECTOR
 ![image](https://user-images.githubusercontent.com/65499285/168112104-c5b6759e-5c34-453b-99e0-e19df87d184e.png)
