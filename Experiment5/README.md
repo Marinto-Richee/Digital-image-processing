@@ -27,7 +27,7 @@ Scaled_image=cv2.warpPerspective(org_img,Scaling_Matrix,(col,row))
 Shear the image using<br>
 Shearing_matrix=np.float32([[1,0.2,0],[0.2,1,0],[0,0,1]])
 Sheared_image=cv2.warpPerspective(org_img,Shearing_matrix,(col*2,int(row*1.5)))
-<br><br><br><br><br>
+
 ### Step 5:
 
 Reflection of image can be achieved through the code<br>
