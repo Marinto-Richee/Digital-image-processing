@@ -6,35 +6,35 @@ To perform image transformation such as Translation, Scaling, Shearing, Reflecti
 Anaconda - Python 3.7
 
 ## Algorithm:
-### Step1:
+### Step 1:
 
 Import the necessary libraries and read the original image and save it a image variable.
 
-### Step2:
+### Step 2:
 
 Translate the image using<br>
 Translation_matrix=np.float32([[1,0,120],[0,1,120],[0,0,1]])
 Translated_image=cv2.warpPerspective(org_img,Translation_matrix,(col,row))
 
-### Step3:
+### Step 3:
 
 Scale the image using<br>
 Scaling_Matrix=np.float32([[1.2,0,0],[0,1.2,0],[0,0,1]])
 Scaled_image=cv2.warpPerspective(org_img,Scaling_Matrix,(col,row))
 
-### Step4:
+### Step 4:
 
 Shear the image using<br>
 Shearing_matrix=np.float32([[1,0.2,0],[0.2,1,0],[0,0,1]])
 Sheared_image=cv2.warpPerspective(org_img,Shearing_matrix,(col*2,int(row*1.5)))
 
-### Step5:
+### Step 5:
 
 Reflection of image can be achieved through the code<br>
 Reflection_matrix_row=np.float32([[1,0,0],[0,-1,row],[0,0,1]])
 Reflected_image_row=cv2.warpPerspective(org_img,Reflection_matrix_row,(col,int(row)))
 
-### Step6:
+### Step 6:
 
 Rotate the image using<br>
 Rotation_angle=np.radians(10)
@@ -43,12 +43,12 @@ Rotation_matrix=np.float32([[np.cos(Rotation_angle),-np.sin(Rotation_angle),0],
                                 [0,0,1]])
 Rotated_image=cv2.warpPerspective(org_img,Rotation_matrix,(col,(row)))
 
-### Step7:
+### Step 7:
 
 Crop the image using <br>
 cropped_image=org_img[10:350,320:560]
 
-### Step8:
+### Step 8:
 Display all the Transformed images.
 
 ## Program:
