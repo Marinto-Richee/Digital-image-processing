@@ -71,21 +71,30 @@ for i in range(0,9):
 ## Output:
 
 ### Original Image
+
 ![image](https://user-images.githubusercontent.com/65499285/169066947-59fe96a2-fb21-4444-af89-a1ba140c2d78.png)
 
 
 ### Global Thresholding
+
 ![image](https://user-images.githubusercontent.com/65499285/169067010-b3116dec-6f23-4f98-add8-b0ec3bc6c41d.png)
+
 ![image](https://user-images.githubusercontent.com/65499285/169067026-df5a1925-df4e-447a-a54c-8f883d901254.png)
+
 ![image](https://user-images.githubusercontent.com/65499285/169067053-7bac14c6-e601-4256-88b5-b610db136464.png)
+
 ![image](https://user-images.githubusercontent.com/65499285/169067076-624f128d-e9bf-4269-9df1-822ec3a95c00.png)
+
 ![image](https://user-images.githubusercontent.com/65499285/169067098-c603714b-cd79-4a15-9203-63e253f76b7e.png)
 
 ### Adaptive Thresholding
+
 ![image](https://user-images.githubusercontent.com/65499285/169067229-f9a4ed19-fe51-44f6-8fa5-5cf696f7376d.png)
+
 ![image](https://user-images.githubusercontent.com/65499285/169067241-0e38b048-c573-4ba3-acb8-cc949760ad71.png)
 
 ### Optimum Global Thesholding using Otsu's Method
+
 ![image](https://user-images.githubusercontent.com/65499285/169067266-74a11cf4-68e3-46e2-812f-58ea8f61eceb.png)
 
 
