@@ -15,7 +15,13 @@ Create the structuring element
 Erode and Dilate the image
 ### Step 5:
 Display all the results
- 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Program:
 #### Developed By: Marinto Richee
 #### Register Number: 212220230031
