@@ -22,8 +22,6 @@ Use Otsu's method to segment the image
 Display the results
 
 <br>
-<br>
-<br>
 
 ## Program:
 #### Developed By   :Marinto Richee J
