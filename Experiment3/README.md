@@ -98,6 +98,11 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
+<br>
+<br>
+<br>
+<br>
+
 ## Output:
 
 ### i) BGR and RGB to HSV and GRAY
