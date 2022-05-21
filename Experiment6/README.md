@@ -147,6 +147,12 @@ plt.show()
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## Output:
 ### 1. Smoothing Filters
