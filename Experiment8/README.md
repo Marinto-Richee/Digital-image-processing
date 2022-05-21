@@ -78,7 +78,7 @@ plt.imshow(blank_image)
 plt.show()
 
 ```
-## Output
+## Output:
 
 ### Input image and grayscale image
 ![image](https://user-images.githubusercontent.com/65499285/168997358-9b3ee0c7-31c1-4f35-be71-75325b9f5761.png)
