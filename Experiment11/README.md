@@ -56,5 +56,5 @@ image2=cv2.morphologyEx(image,cv2.MORPH_CLOSE,kernel)
 
 ![image](https://user-images.githubusercontent.com/65499285/169962269-d3389943-3b21-4f8a-8fa7-f4e8ba1d79cc.png)
 
-## Result
+## Result:
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
