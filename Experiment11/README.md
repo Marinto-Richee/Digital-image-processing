@@ -22,6 +22,8 @@ Display all the output images
 
  
 ## Program:
+#### Developed By: Marinto Richee
+#### Register Number: 212220230031
 
 ``` Python
 # Import the necessary packages
