@@ -23,8 +23,7 @@ Print the characters and its huffmancode
  
  <br><br>
  <br><br>
- <br><br>
- <br><br>
+
  <br><br>
 ## Program:
 #### Developed By: Marinto Richee
