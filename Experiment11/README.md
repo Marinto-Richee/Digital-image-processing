@@ -20,7 +20,7 @@ Use Closing Operation
 ### Step 6:
 Display all the output images
 
- 
+ <br><br>
 ## Program:
 #### Developed By: Marinto Richee
 #### Register Number: 212220230031
