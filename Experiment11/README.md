@@ -51,6 +51,7 @@ image2=cv2.morphologyEx(image,cv2.MORPH_CLOSE,kernel)
 ![image](https://user-images.githubusercontent.com/65499285/169962223-42584e37-02d9-4d42-a755-8b45fb24b5b1.png)
 
  <br><br>
+ <br><br>
 ### Display the result of Opening
 
 ![image](https://user-images.githubusercontent.com/65499285/169962180-eb254419-7507-4736-86b4-f86690c9a714.png)
